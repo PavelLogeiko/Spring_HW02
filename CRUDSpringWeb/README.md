@@ -15,13 +15,13 @@
 Скрины работы приложения:
 
 Приложение в папке:
-![Ссылка](https://github.com/PavelLogeiko/Spring_HW02/tree/main/CRUDSpringWeb)
+[Ссылка](https://github.com/PavelLogeiko/Spring_HW02/tree/main/CRUDSpringWeb)
 
 1) Создание пользователей
-![1]()
+![1](https://github.com/PavelLogeiko/Spring_HW02/blob/main/CRUDSpringWeb/images/1.png)
 
 2) Удаление пользователей
 
-![2]()
+![2](https://github.com/PavelLogeiko/Spring_HW02/blob/main/CRUDSpringWeb/images/2.png)
 
-![3]()
+![3](https://github.com/PavelLogeiko/Spring_HW02/blob/main/CRUDSpringWeb/images/3.png)
