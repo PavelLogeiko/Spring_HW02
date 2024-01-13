@@ -12,10 +12,10 @@
 Если задание выполнено верно, то при запуске приложения 
 по адресу http://localhost:8080/users будет работать кнопка удаления пользователя по ID.
 
-Скрины работы приложения:
-
 Приложение в папке:
 [Ссылка](https://github.com/PavelLogeiko/Spring_HW02/tree/main/CRUDSpringWeb)
+
+Скрины работы приложения:
 
 1) Создание пользователей
 ![1](https://github.com/PavelLogeiko/Spring_HW02/blob/main/CRUDSpringWeb/images/1.png)
